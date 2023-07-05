@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CUBOMAX</string>
+
+    <string name="google_api_key" translatable="false">AIzaSyAtL9jmMoAEk9sA0x9PZ8N0IsEx6uKDdRw</string>
+</resources>
